@@ -1,0 +1,143 @@
+F:\C#\project\project\bl\bin\Debug\net6.0\bl.deps.json
+F:\C#\project\project\bl\bin\Debug\net6.0\bl.dll
+F:\C#\project\project\bl\bin\Debug\net6.0\bl.pdb
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.dll
+F:\C#\project\project\bl\obj\Debug\net6.0\refint\bl.dll
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.pdb
+F:\C#\project\project\bl\obj\Debug\net6.0\ref\bl.dll
+G:\C#\project\project\bl\bin\Debug\net6.0\bl.deps.json
+G:\C#\project\project\bl\bin\Debug\net6.0\bl.dll
+G:\C#\project\project\bl\bin\Debug\net6.0\bl.pdb
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.dll
+G:\C#\project\project\bl\obj\Debug\net6.0\refint\bl.dll
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.pdb
+G:\C#\project\project\bl\obj\Debug\net6.0\ref\bl.dll
+G:\C#\project\project\bl\bin\Debug\net6.0\dal.dll
+G:\C#\project\project\bl\bin\Debug\net6.0\dal.pdb
+G:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+E:\C#\project\project\bl\bin\Debug\net6.0\bl.deps.json
+E:\C#\project\project\bl\bin\Debug\net6.0\bl.dll
+E:\C#\project\project\bl\bin\Debug\net6.0\bl.pdb
+E:\C#\project\project\bl\bin\Debug\net6.0\dal.dll
+E:\C#\project\project\bl\bin\Debug\net6.0\dal.pdb
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.dll
+E:\C#\project\project\bl\obj\Debug\net6.0\refint\bl.dll
+E:\C#\project\project\bl\obj\Debug\net6.0\bl.pdb
+E:\C#\project\project\bl\obj\Debug\net6.0\ref\bl.dll
+F:\C#\project\project\bl\bin\Debug\net6.0\dal.dll
+F:\C#\project\project\bl\bin\Debug\net6.0\dal.pdb
+F:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+D:\C#\project\project\bl\bin\Debug\net6.0\bl.deps.json
+D:\C#\project\project\bl\bin\Debug\net6.0\bl.dll
+D:\C#\project\project\bl\bin\Debug\net6.0\bl.pdb
+D:\C#\project\project\bl\bin\Debug\net6.0\dal.dll
+D:\C#\project\project\bl\bin\Debug\net6.0\dal.pdb
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.dll
+D:\C#\project\project\bl\obj\Debug\net6.0\refint\bl.dll
+D:\C#\project\project\bl\obj\Debug\net6.0\bl.pdb
+D:\C#\project\project\bl\obj\Debug\net6.0\ref\bl.dll
+M:\c#\project\project\bl\bin\Debug\net6.0\bl.deps.json
+M:\c#\project\project\bl\bin\Debug\net6.0\bl.dll
+M:\c#\project\project\bl\bin\Debug\net6.0\bl.pdb
+M:\c#\project\project\bl\bin\Debug\net6.0\dal.dll
+M:\c#\project\project\bl\bin\Debug\net6.0\dal.pdb
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.dll
+M:\c#\project\project\bl\obj\Debug\net6.0\refint\bl.dll
+M:\c#\project\project\bl\obj\Debug\net6.0\bl.pdb
+M:\c#\project\project\bl\obj\Debug\net6.0\ref\bl.dll
+K:\project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+K:\project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+K:\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+K:\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+K:\project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+K:\project\project\bl\obj\Debug\net6.0\bl.dll
+K:\project\project\bl\obj\Debug\net6.0\refint\bl.dll
+K:\project\project\bl\obj\Debug\net6.0\bl.pdb
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.dll
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\refint\bl.dll
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.pdb
+C:\Users\User\Desktop\react to c# project\project\project\bl\bin\Debug\net6.0\bl.deps.json
+C:\Users\User\Desktop\react to c# project\project\project\bl\bin\Debug\net6.0\bl.dll
+C:\Users\User\Desktop\react to c# project\project\project\bl\bin\Debug\net6.0\bl.pdb
+C:\Users\User\Desktop\react to c# project\project\project\bl\bin\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\react to c# project\project\project\bl\bin\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+C:\Users\User\Desktop\react to c# project\project\project\bl\obj\Debug\net6.0\ref\bl.dll
+F:\C#\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.deps.json
+F:\C#\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.dll
+F:\C#\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.pdb
+F:\C#\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\dal.dll
+F:\C#\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\dal.pdb
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.dll
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\refint\bl.dll
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.pdb
+F:\C#\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\ref\bl.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.deps.json
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.pdb
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\dal.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\dal.pdb
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\refint\bl.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.pdb
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\ref\bl.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\refint\bl.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.pdb
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.deps.json
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\bl.pdb
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\bin\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\bl\obj\Debug\net6.0\ref\bl.dll

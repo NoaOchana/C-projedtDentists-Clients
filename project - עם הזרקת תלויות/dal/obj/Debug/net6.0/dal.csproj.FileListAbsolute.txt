@@ -1,0 +1,134 @@
+F:\C#\project\project\dal\bin\Debug\net6.0\dal.deps.json
+F:\C#\project\project\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+F:\C#\project\project\dal\bin\Debug\net6.0\dal.dll
+F:\C#\project\project\dal\bin\Debug\net6.0\dal.pdb
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.dll
+F:\C#\project\project\dal\obj\Debug\net6.0\refint\dal.dll
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.pdb
+F:\C#\project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+F:\C#\project\project\dal\obj\Debug\net6.0\ref\dal.dll
+G:\C#\project\project\dal\bin\Debug\net6.0\dal.deps.json
+G:\C#\project\project\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+G:\C#\project\project\dal\bin\Debug\net6.0\dal.dll
+G:\C#\project\project\dal\bin\Debug\net6.0\dal.pdb
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.dll
+G:\C#\project\project\dal\obj\Debug\net6.0\refint\dal.dll
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.pdb
+G:\C#\project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+G:\C#\project\project\dal\obj\Debug\net6.0\ref\dal.dll
+E:\C#\project\project\dal\bin\Debug\net6.0\dal.deps.json
+E:\C#\project\project\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+E:\C#\project\project\dal\bin\Debug\net6.0\dal.dll
+E:\C#\project\project\dal\bin\Debug\net6.0\dal.pdb
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.dll
+E:\C#\project\project\dal\obj\Debug\net6.0\refint\dal.dll
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.pdb
+E:\C#\project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+E:\C#\project\project\dal\obj\Debug\net6.0\ref\dal.dll
+D:\C#\project\project\dal\bin\Debug\net6.0\dal.deps.json
+D:\C#\project\project\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+D:\C#\project\project\dal\bin\Debug\net6.0\dal.dll
+D:\C#\project\project\dal\bin\Debug\net6.0\dal.pdb
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.dll
+D:\C#\project\project\dal\obj\Debug\net6.0\refint\dal.dll
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.pdb
+D:\C#\project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+D:\C#\project\project\dal\obj\Debug\net6.0\ref\dal.dll
+M:\c#\project\project\dal\bin\Debug\net6.0\dal.deps.json
+M:\c#\project\project\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+M:\c#\project\project\dal\bin\Debug\net6.0\dal.dll
+M:\c#\project\project\dal\bin\Debug\net6.0\dal.pdb
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.dll
+M:\c#\project\project\dal\obj\Debug\net6.0\refint\dal.dll
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.pdb
+M:\c#\project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+M:\c#\project\project\dal\obj\Debug\net6.0\ref\dal.dll
+K:\project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+K:\project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+K:\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+K:\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+K:\project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+K:\project\project\dal\obj\Debug\net6.0\dal.dll
+K:\project\project\dal\obj\Debug\net6.0\refint\dal.dll
+K:\project\project\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\refint\dal.dll
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\react to c# project\project\project\dal\bin\Debug\net6.0\dal.deps.json
+C:\Users\User\Desktop\react to c# project\project\project\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+C:\Users\User\Desktop\react to c# project\project\project\dal\bin\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\react to c# project\project\project\dal\bin\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+C:\Users\User\Desktop\react to c# project\project\project\dal\obj\Debug\net6.0\ref\dal.dll
+F:\C#\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.deps.json
+F:\C#\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+F:\C#\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.dll
+F:\C#\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.pdb
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.dll
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\refint\dal.dll
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.pdb
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+F:\C#\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\ref\dal.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.deps.json
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.pdb
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\refint\dal.dll
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+C:\Users\325459881\Desktop\C# project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\ref\dal.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\refint\dal.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.deps.json
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\ref\dal.dll
