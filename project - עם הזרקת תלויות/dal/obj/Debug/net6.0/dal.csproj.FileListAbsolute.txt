@@ -132,3 +132,17 @@ C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\bin\Deb
 C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.pdb
 C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
 C:\Users\User\Desktop\project\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\ref\dal.dll
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.deps.json
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\bin\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.dll
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\refint\dal.dll
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+C:\Users\User\Desktop\project\C-projedtDentists-Clients\project - עם הזרקת תלויות\dal\obj\Debug\net6.0\ref\dal.dll

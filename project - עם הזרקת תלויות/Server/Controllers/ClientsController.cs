@@ -51,7 +51,7 @@ namespace Server.Controllers
             }
         }
 
-        [HttpDelete]
+        [HttpPost]
         [Route("delete/client")]
         public void Delete(Client client)
         {

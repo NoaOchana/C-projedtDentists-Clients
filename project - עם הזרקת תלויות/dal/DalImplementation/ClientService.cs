@@ -1,5 +1,6 @@
 ﻿using dal.DalApi;
 using dal.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,9 +25,19 @@ namespace dal.DalImplementation
 
         public async void Delete(Client item)
         {
-            if(item == null) return;
-            db.Remove(item);
-            db.SaveChanges();
+            if (item == null) return;
+
+            var existingEntity = db.Clients.Find(item.ClientId); // Retrieve the entity from the context
+            if (existingEntity != null)
+            {
+                db.Clients.Remove(existingEntity); // Mark the entity for deletion
+                db.SaveChanges(); // Save changes to delete the entity
+            }
+
+
+
+            //db.Remove(item);
+            //db.SaveChanges();
         }
 
         public async Task<List<Client>> Read()

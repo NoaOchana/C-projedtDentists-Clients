@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ba6DBDpxTZ9+3Ir0xY0x2wpf9La4XAmyMqKXo2IAq72p1Ih/1IH4JI38CnOjMufCdaCYdEzqTcoy3He5YYbefw==",
+  "dgSpecHash": "MXCorIXu6Jc1ojimPT9qMiewINU9H0NIY4BaQMJE9K7f1Ou7QgIZpiT3ILbfyXC5SO8Pw2eseNJgMocCAdq1uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\dal\\dal.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\dal\\dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

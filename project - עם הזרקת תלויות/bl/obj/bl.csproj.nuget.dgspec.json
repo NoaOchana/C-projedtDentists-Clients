@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\bl\\bl.csproj": {}
+    "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\bl\\bl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\bl\\bl.csproj": {
+    "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\bl\\bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\bl\\bl.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\bl\\bl.csproj",
         "projectName": "bl",
-        "projectPath": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\bl\\bl.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\bl\\bl.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\bl\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\bl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\dal\\dal.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\dal\\dal.csproj"
+              "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\dal\\dal.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\dal\\dal.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\dal\\dal.csproj": {
+    "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\dal\\dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\dal\\dal.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\dal\\dal.csproj",
         "projectName": "dal",
-        "projectPath": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\dal\\dal.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\dal\\dal.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\project\\project - עם הזרקת תלויות\\dal\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\project\\C-projedtDentists-Clients\\project - עם הזרקת תלויות\\dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
